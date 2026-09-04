@@ -7,7 +7,7 @@ about:
   head: 3e6f534
   archived: true
   latestVersion: v3.0.0
-  collectedAt: 2026-09-04T19:42:25Z
+  collectedAt: 2026-09-04T20:52:20Z
 timeline:
   created: 2024-12-05
   lastCommit: 2026-07-20
@@ -83,5 +83,43 @@ total:
   openIssue: 34
   commit: 200
 ---
+path: /home/runner/.x-repo/github.com/browserbase/mcp-server-browserbase
+collectedAt: 2026-09-04T20:52:21Z
+loc:
+  Yaml:
+    code: 6687
+    comments: 0
+    blanks: 543
+    files: 1
+  TypeScript:
+    code: 1807
+    comments: 243
+    blanks: 256
+    files: 24
+  Json:
+    code: 376
+    comments: 0
+    blanks: 0
+    files: 7
+  JavaScript:
+    code: 33
+    comments: 0
+    blanks: 1
+    files: 3
+  Dockerfile:
+    code: 18
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 128
+    blanks: 82
+    files: 2
+total:
+  code: 9011
+  comments: 371
+  blanks: 891
+  files: 38
 ---
 
