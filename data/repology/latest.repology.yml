@@ -1,0 +1,12 @@
+- repo: freebsd
+  srcname: www/mcp-server-browserbase
+  binname: mcp-server-browserbase
+  visiblename: www/mcp-server-browserbase
+  version: 3.0.0
+  origversion: null
+  status: unique
+  summary: MCP server allowing LLMs control browser with Browserbase, Stagehand
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - www
