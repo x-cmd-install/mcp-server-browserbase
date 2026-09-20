@@ -6,7 +6,7 @@
 
 Allow LLMs to control a browser with Browserbase and Stagehand
 
-![mcp-server-browserbase](https://repo.x-cmd.io/mcp-server-browserbase.svg)
+[![x-cmd/install — mcp-server-browserbase Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcp-server-browserbase.svg)](https://x-cmd.com/install/mcp-server-browserbase)
 
 ## Install
 
@@ -39,7 +39,7 @@ Total: **8,921** lines of code across **36** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,411 · **Forks**: 368 · **Open issues**: 54 · **Contributors**: 25
+- **Stars**: 3,412 · **Forks**: 369 · **Open issues**: 54 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -49,12 +49,12 @@ Total: **8,921** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 1 | 4 | 0 | 1 | 1 |
-| last180d | 2026-03-22 | 1 | 7 | 10 | 1 | 14 | 7 |
-| 360d | 2025-09-23 | 1 | 21 | 13 | 1 | 24 | 26 |
-| last720d | 2024-09-28 | 1 | 79 | 18 | 20 | 34 | 200 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 1 | 3 | 0 | 1 | 1 |
+| last180d | 2026-03-24 | 1 | 7 | 10 | 1 | 14 | 7 |
+| 360d | 2025-09-25 | 1 | 20 | 13 | 1 | 24 | 26 |
+| last720d | 2024-09-30 | 1 | 79 | 18 | 20 | 34 | 200 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for mcp-server-browserbase lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:38:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:18:10Z._
