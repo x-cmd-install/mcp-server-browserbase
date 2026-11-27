@@ -39,22 +39,22 @@ Total: **8,921** lines of code across **36** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,397 · **Forks**: 374 · **Open issues**: 53 · **Contributors**: 25
+- **Stars**: 3,397 · **Forks**: 374 · **Open issues**: 51 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 79 · **Open PRs**: 18 · **Closed issues**: 20 · **Open issues**: 33 · **Commits**: 200
+- **Releases**: 1 · **Merged PRs**: 79 · **Open PRs**: 18 · **Closed issues**: 20 · **Open issues**: 31 · **Commits**: 200
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 1 | 7 | 0 | 4 | 1 |
-| 360d | 2025-12-01 | 1 | 13 | 13 | 1 | 18 | 14 |
-| last720d | 2024-12-06 | 1 | 78 | 18 | 20 | 33 | 199 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 1 | 7 | 0 | 4 | 1 |
+| 360d | 2025-12-02 | 1 | 13 | 13 | 1 | 16 | 14 |
+| last720d | 2024-12-07 | 1 | 78 | 18 | 20 | 31 | 197 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for mcp-server-browserbase lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:15:34Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:25:26Z._
